@@ -76,4 +76,8 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/aadii008/LeetCodes/tree/master/0719-find-k-th-smallest-pair-distance) |
+## String
+|  |
+| ------- |
+| [0742-to-lower-case](https://github.com/aadii008/LeetCodes/tree/master/0742-to-lower-case) |
 <!---LeetCode Topics End-->
