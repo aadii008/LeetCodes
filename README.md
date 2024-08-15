@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0349-intersection-of-two-arrays](https://github.com/aadii008/LeetCodes/tree/master/0349-intersection-of-two-arrays) |
 | [0560-subarray-sum-equals-k](https://github.com/aadii008/LeetCodes/tree/master/0560-subarray-sum-equals-k) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/aadii008/LeetCodes/tree/master/0719-find-k-th-smallest-pair-distance) |
+| [1115-valid-boomerang](https://github.com/aadii008/LeetCodes/tree/master/1115-valid-boomerang) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/aadii008/LeetCodes/tree/master/2271-rearrange-array-elements-by-sign) |
 ## Two Pointers
 |  |
@@ -89,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [1086-divisor-game](https://github.com/aadii008/LeetCodes/tree/master/1086-divisor-game) |
+| [1115-valid-boomerang](https://github.com/aadii008/LeetCodes/tree/master/1115-valid-boomerang) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -101,4 +103,8 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [1086-divisor-game](https://github.com/aadii008/LeetCodes/tree/master/1086-divisor-game) |
+## Geometry
+|  |
+| ------- |
+| [1115-valid-boomerang](https://github.com/aadii008/LeetCodes/tree/master/1115-valid-boomerang) |
 <!---LeetCode Topics End-->
