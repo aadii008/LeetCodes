@@ -99,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0264-ugly-number-ii](https://github.com/aadii008/LeetCodes/tree/master/0264-ugly-number-ii) |
+| [0650-2-keys-keyboard](https://github.com/aadii008/LeetCodes/tree/master/0650-2-keys-keyboard) |
 | [1086-divisor-game](https://github.com/aadii008/LeetCodes/tree/master/1086-divisor-game) |
 | [1115-valid-boomerang](https://github.com/aadii008/LeetCodes/tree/master/1115-valid-boomerang) |
 ## Dynamic Programming
@@ -106,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0055-jump-game](https://github.com/aadii008/LeetCodes/tree/master/0055-jump-game) |
 | [0264-ugly-number-ii](https://github.com/aadii008/LeetCodes/tree/master/0264-ugly-number-ii) |
+| [0650-2-keys-keyboard](https://github.com/aadii008/LeetCodes/tree/master/0650-2-keys-keyboard) |
 | [1086-divisor-game](https://github.com/aadii008/LeetCodes/tree/master/1086-divisor-game) |
 | [2067-maximum-number-of-points-with-cost](https://github.com/aadii008/LeetCodes/tree/master/2067-maximum-number-of-points-with-cost) |
 ## Brainteaser
