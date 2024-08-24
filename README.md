@@ -100,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## String
 |  |
 | ------- |
+| [0006-zigzag-conversion](https://github.com/aadii008/LeetCodes/tree/master/0006-zigzag-conversion) |
 | [0058-length-of-last-word](https://github.com/aadii008/LeetCodes/tree/master/0058-length-of-last-word) |
 | [0564-find-the-closest-palindrome](https://github.com/aadii008/LeetCodes/tree/master/0564-find-the-closest-palindrome) |
 | [0592-fraction-addition-and-subtraction](https://github.com/aadii008/LeetCodes/tree/master/0592-fraction-addition-and-subtraction) |
