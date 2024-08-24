@@ -101,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0058-length-of-last-word](https://github.com/aadii008/LeetCodes/tree/master/0058-length-of-last-word) |
+| [0564-find-the-closest-palindrome](https://github.com/aadii008/LeetCodes/tree/master/0564-find-the-closest-palindrome) |
 | [0592-fraction-addition-and-subtraction](https://github.com/aadii008/LeetCodes/tree/master/0592-fraction-addition-and-subtraction) |
 | [0664-strange-printer](https://github.com/aadii008/LeetCodes/tree/master/0664-strange-printer) |
 | [0742-to-lower-case](https://github.com/aadii008/LeetCodes/tree/master/0742-to-lower-case) |
@@ -110,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0007-reverse-integer](https://github.com/aadii008/LeetCodes/tree/master/0007-reverse-integer) |
 | [0048-rotate-image](https://github.com/aadii008/LeetCodes/tree/master/0048-rotate-image) |
 | [0264-ugly-number-ii](https://github.com/aadii008/LeetCodes/tree/master/0264-ugly-number-ii) |
+| [0564-find-the-closest-palindrome](https://github.com/aadii008/LeetCodes/tree/master/0564-find-the-closest-palindrome) |
 | [0592-fraction-addition-and-subtraction](https://github.com/aadii008/LeetCodes/tree/master/0592-fraction-addition-and-subtraction) |
 | [0650-2-keys-keyboard](https://github.com/aadii008/LeetCodes/tree/master/0650-2-keys-keyboard) |
 | [1086-divisor-game](https://github.com/aadii008/LeetCodes/tree/master/1086-divisor-game) |
