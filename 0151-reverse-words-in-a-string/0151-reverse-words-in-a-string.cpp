@@ -3,8 +3,7 @@ public:
     string reverseWords(string s) {
         stack<string> st;
         string helper = "";
-        string result = "";
-        
+        string result = "";   
         for(int i = 0; i < s.length(); i++){
             if(s[i] != ' '){
                 helper += s[i];
@@ -16,7 +15,6 @@ public:
         if (!helper.empty()) {
             st.push(helper);
         }
-        
         while(!st.empty()){
             result += st.top();
             st.pop();
