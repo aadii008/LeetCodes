@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/aadii008/LeetCodes/tree/master/0001-two-sum) |
+| [0242-valid-anagram](https://github.com/aadii008/LeetCodes/tree/master/0242-valid-anagram) |
 | [0264-ugly-number-ii](https://github.com/aadii008/LeetCodes/tree/master/0264-ugly-number-ii) |
 | [0349-intersection-of-two-arrays](https://github.com/aadii008/LeetCodes/tree/master/0349-intersection-of-two-arrays) |
 | [0560-subarray-sum-equals-k](https://github.com/aadii008/LeetCodes/tree/master/0560-subarray-sum-equals-k) |
@@ -97,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0148-sort-list](https://github.com/aadii008/LeetCodes/tree/master/0148-sort-list) |
+| [0242-valid-anagram](https://github.com/aadii008/LeetCodes/tree/master/0242-valid-anagram) |
 | [0349-intersection-of-two-arrays](https://github.com/aadii008/LeetCodes/tree/master/0349-intersection-of-two-arrays) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/aadii008/LeetCodes/tree/master/0719-find-k-th-smallest-pair-distance) |
 ## String
@@ -105,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0006-zigzag-conversion](https://github.com/aadii008/LeetCodes/tree/master/0006-zigzag-conversion) |
 | [0058-length-of-last-word](https://github.com/aadii008/LeetCodes/tree/master/0058-length-of-last-word) |
 | [0151-reverse-words-in-a-string](https://github.com/aadii008/LeetCodes/tree/master/0151-reverse-words-in-a-string) |
+| [0242-valid-anagram](https://github.com/aadii008/LeetCodes/tree/master/0242-valid-anagram) |
 | [0564-find-the-closest-palindrome](https://github.com/aadii008/LeetCodes/tree/master/0564-find-the-closest-palindrome) |
 | [0592-fraction-addition-and-subtraction](https://github.com/aadii008/LeetCodes/tree/master/0592-fraction-addition-and-subtraction) |
 | [0664-strange-printer](https://github.com/aadii008/LeetCodes/tree/master/0664-strange-printer) |
