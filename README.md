@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0001-two-sum](https://github.com/aadii008/LeetCodes/tree/master/0001-two-sum) |
 | [0011-container-with-most-water](https://github.com/aadii008/LeetCodes/tree/master/0011-container-with-most-water) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/aadii008/LeetCodes/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0039-combination-sum](https://github.com/aadii008/LeetCodes/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/aadii008/LeetCodes/tree/master/0040-combination-sum-ii) |
 | [0048-rotate-image](https://github.com/aadii008/LeetCodes/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/aadii008/LeetCodes/tree/master/0054-spiral-matrix) |
@@ -94,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Backtracking
 |  |
 | ------- |
+| [0039-combination-sum](https://github.com/aadii008/LeetCodes/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/aadii008/LeetCodes/tree/master/0040-combination-sum-ii) |
 | [0078-subsets](https://github.com/aadii008/LeetCodes/tree/master/0078-subsets) |
 ## Sorting
