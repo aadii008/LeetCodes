@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0011-container-with-most-water](https://github.com/aadii008/LeetCodes/tree/master/0011-container-with-most-water) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/aadii008/LeetCodes/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0148-sort-list](https://github.com/aadii008/LeetCodes/tree/master/0148-sort-list) |
+| [0151-reverse-words-in-a-string](https://github.com/aadii008/LeetCodes/tree/master/0151-reverse-words-in-a-string) |
 | [0349-intersection-of-two-arrays](https://github.com/aadii008/LeetCodes/tree/master/0349-intersection-of-two-arrays) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/aadii008/LeetCodes/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/aadii008/LeetCodes/tree/master/2271-rearrange-array-elements-by-sign) |
@@ -102,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0006-zigzag-conversion](https://github.com/aadii008/LeetCodes/tree/master/0006-zigzag-conversion) |
 | [0058-length-of-last-word](https://github.com/aadii008/LeetCodes/tree/master/0058-length-of-last-word) |
+| [0151-reverse-words-in-a-string](https://github.com/aadii008/LeetCodes/tree/master/0151-reverse-words-in-a-string) |
 | [0564-find-the-closest-palindrome](https://github.com/aadii008/LeetCodes/tree/master/0564-find-the-closest-palindrome) |
 | [0592-fraction-addition-and-subtraction](https://github.com/aadii008/LeetCodes/tree/master/0592-fraction-addition-and-subtraction) |
 | [0664-strange-printer](https://github.com/aadii008/LeetCodes/tree/master/0664-strange-printer) |
