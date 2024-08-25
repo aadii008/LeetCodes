@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0011-container-with-most-water](https://github.com/aadii008/LeetCodes/tree/master/0011-container-with-most-water) |
 | [0055-jump-game](https://github.com/aadii008/LeetCodes/tree/master/0055-jump-game) |
 | [0624-maximum-distance-in-arrays](https://github.com/aadii008/LeetCodes/tree/master/0624-maximum-distance-in-arrays) |
+| [2032-largest-odd-number-in-string](https://github.com/aadii008/LeetCodes/tree/master/2032-largest-odd-number-in-string) |
 ## Hash Table
 |  |
 | ------- |
@@ -108,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0592-fraction-addition-and-subtraction](https://github.com/aadii008/LeetCodes/tree/master/0592-fraction-addition-and-subtraction) |
 | [0664-strange-printer](https://github.com/aadii008/LeetCodes/tree/master/0664-strange-printer) |
 | [0742-to-lower-case](https://github.com/aadii008/LeetCodes/tree/master/0742-to-lower-case) |
+| [2032-largest-odd-number-in-string](https://github.com/aadii008/LeetCodes/tree/master/2032-largest-odd-number-in-string) |
 ## Math
 |  |
 | ------- |
@@ -120,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1086-divisor-game](https://github.com/aadii008/LeetCodes/tree/master/1086-divisor-game) |
 | [1115-valid-boomerang](https://github.com/aadii008/LeetCodes/tree/master/1115-valid-boomerang) |
 | [1240-stone-game-ii](https://github.com/aadii008/LeetCodes/tree/master/1240-stone-game-ii) |
+| [2032-largest-odd-number-in-string](https://github.com/aadii008/LeetCodes/tree/master/2032-largest-odd-number-in-string) |
 ## Dynamic Programming
 |  |
 | ------- |
