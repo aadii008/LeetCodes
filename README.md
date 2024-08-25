@@ -119,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0007-reverse-integer](https://github.com/aadii008/LeetCodes/tree/master/0007-reverse-integer) |
 | [0048-rotate-image](https://github.com/aadii008/LeetCodes/tree/master/0048-rotate-image) |
+| [0050-powx-n](https://github.com/aadii008/LeetCodes/tree/master/0050-powx-n) |
 | [0264-ugly-number-ii](https://github.com/aadii008/LeetCodes/tree/master/0264-ugly-number-ii) |
 | [0564-find-the-closest-palindrome](https://github.com/aadii008/LeetCodes/tree/master/0564-find-the-closest-palindrome) |
 | [0592-fraction-addition-and-subtraction](https://github.com/aadii008/LeetCodes/tree/master/0592-fraction-addition-and-subtraction) |
@@ -171,4 +172,8 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0812-rotate-string](https://github.com/aadii008/LeetCodes/tree/master/0812-rotate-string) |
+## Recursion
+|  |
+| ------- |
+| [0050-powx-n](https://github.com/aadii008/LeetCodes/tree/master/0050-powx-n) |
 <!---LeetCode Topics End-->
