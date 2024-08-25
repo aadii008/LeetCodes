@@ -109,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0592-fraction-addition-and-subtraction](https://github.com/aadii008/LeetCodes/tree/master/0592-fraction-addition-and-subtraction) |
 | [0664-strange-printer](https://github.com/aadii008/LeetCodes/tree/master/0664-strange-printer) |
 | [0742-to-lower-case](https://github.com/aadii008/LeetCodes/tree/master/0742-to-lower-case) |
+| [0812-rotate-string](https://github.com/aadii008/LeetCodes/tree/master/0812-rotate-string) |
 | [2032-largest-odd-number-in-string](https://github.com/aadii008/LeetCodes/tree/master/2032-largest-odd-number-in-string) |
 ## Math
 |  |
@@ -163,4 +164,8 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0476-number-complement](https://github.com/aadii008/LeetCodes/tree/master/0476-number-complement) |
+## String Matching
+|  |
+| ------- |
+| [0812-rotate-string](https://github.com/aadii008/LeetCodes/tree/master/0812-rotate-string) |
 <!---LeetCode Topics End-->
