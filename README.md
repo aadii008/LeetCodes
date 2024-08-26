@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Tree
 |  |
 | ------- |
+| [0776-n-ary-tree-postorder-traversal](https://github.com/aadii008/LeetCodes/tree/master/0776-n-ary-tree-postorder-traversal) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/aadii008/LeetCodes/tree/master/0789-kth-largest-element-in-a-stream) |
 ## Design
 |  |
@@ -183,4 +184,12 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/aadii008/LeetCodes/tree/master/0050-powx-n) |
+## Stack
+|  |
+| ------- |
+| [0776-n-ary-tree-postorder-traversal](https://github.com/aadii008/LeetCodes/tree/master/0776-n-ary-tree-postorder-traversal) |
+## Depth-First Search
+|  |
+| ------- |
+| [0776-n-ary-tree-postorder-traversal](https://github.com/aadii008/LeetCodes/tree/master/0776-n-ary-tree-postorder-traversal) |
 <!---LeetCode Topics End-->
