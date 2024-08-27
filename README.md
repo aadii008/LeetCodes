@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0719-find-k-th-smallest-pair-distance](https://github.com/aadii008/LeetCodes/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [1115-valid-boomerang](https://github.com/aadii008/LeetCodes/tree/master/1115-valid-boomerang) |
 | [1240-stone-game-ii](https://github.com/aadii008/LeetCodes/tree/master/1240-stone-game-ii) |
+| [1325-path-with-maximum-probability](https://github.com/aadii008/LeetCodes/tree/master/1325-path-with-maximum-probability) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/aadii008/LeetCodes/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [2067-maximum-number-of-points-with-cost](https://github.com/aadii008/LeetCodes/tree/master/2067-maximum-number-of-points-with-cost) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/aadii008/LeetCodes/tree/master/2271-rearrange-array-elements-by-sign) |
@@ -71,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0264-ugly-number-ii](https://github.com/aadii008/LeetCodes/tree/master/0264-ugly-number-ii) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/aadii008/LeetCodes/tree/master/0789-kth-largest-element-in-a-stream) |
+| [1325-path-with-maximum-probability](https://github.com/aadii008/LeetCodes/tree/master/1325-path-with-maximum-probability) |
 ## Binary Tree
 |  |
 | ------- |
@@ -195,4 +197,12 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0776-n-ary-tree-postorder-traversal](https://github.com/aadii008/LeetCodes/tree/master/0776-n-ary-tree-postorder-traversal) |
+## Graph
+|  |
+| ------- |
+| [1325-path-with-maximum-probability](https://github.com/aadii008/LeetCodes/tree/master/1325-path-with-maximum-probability) |
+## Shortest Path
+|  |
+| ------- |
+| [1325-path-with-maximum-probability](https://github.com/aadii008/LeetCodes/tree/master/1325-path-with-maximum-probability) |
 <!---LeetCode Topics End-->
