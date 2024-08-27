@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/aadii008/LeetCodes/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [2067-maximum-number-of-points-with-cost](https://github.com/aadii008/LeetCodes/tree/master/2067-maximum-number-of-points-with-cost) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/aadii008/LeetCodes/tree/master/2271-rearrange-array-elements-by-sign) |
+| [3476-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/aadii008/LeetCodes/tree/master/3476-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 ## Two Pointers
 |  |
 | ------- |
@@ -148,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1240-stone-game-ii](https://github.com/aadii008/LeetCodes/tree/master/1240-stone-game-ii) |
 | [1448-maximum-69-number](https://github.com/aadii008/LeetCodes/tree/master/1448-maximum-69-number) |
 | [2032-largest-odd-number-in-string](https://github.com/aadii008/LeetCodes/tree/master/2032-largest-odd-number-in-string) |
+| [3476-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/aadii008/LeetCodes/tree/master/3476-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3511-find-the-winning-player-in-coin-game](https://github.com/aadii008/LeetCodes/tree/master/3511-find-the-winning-player-in-coin-game) |
 ## Dynamic Programming
 |  |
