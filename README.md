@@ -99,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0054-spiral-matrix](https://github.com/aadii008/LeetCodes/tree/master/0054-spiral-matrix) |
 | [0592-fraction-addition-and-subtraction](https://github.com/aadii008/LeetCodes/tree/master/0592-fraction-addition-and-subtraction) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/aadii008/LeetCodes/tree/master/2271-rearrange-array-elements-by-sign) |
+| [3511-find-the-winning-player-in-coin-game](https://github.com/aadii008/LeetCodes/tree/master/3511-find-the-winning-player-in-coin-game) |
 ## Backtracking
 |  |
 | ------- |
@@ -147,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1240-stone-game-ii](https://github.com/aadii008/LeetCodes/tree/master/1240-stone-game-ii) |
 | [1448-maximum-69-number](https://github.com/aadii008/LeetCodes/tree/master/1448-maximum-69-number) |
 | [2032-largest-odd-number-in-string](https://github.com/aadii008/LeetCodes/tree/master/2032-largest-odd-number-in-string) |
+| [3511-find-the-winning-player-in-coin-game](https://github.com/aadii008/LeetCodes/tree/master/3511-find-the-winning-player-in-coin-game) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -166,6 +168,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [1086-divisor-game](https://github.com/aadii008/LeetCodes/tree/master/1086-divisor-game) |
 | [1240-stone-game-ii](https://github.com/aadii008/LeetCodes/tree/master/1240-stone-game-ii) |
+| [3511-find-the-winning-player-in-coin-game](https://github.com/aadii008/LeetCodes/tree/master/3511-find-the-winning-player-in-coin-game) |
 ## Geometry
 |  |
 | ------- |
