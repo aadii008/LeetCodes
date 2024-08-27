@@ -131,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0007-reverse-integer](https://github.com/aadii008/LeetCodes/tree/master/0007-reverse-integer) |
 | [0048-rotate-image](https://github.com/aadii008/LeetCodes/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/aadii008/LeetCodes/tree/master/0050-powx-n) |
+| [0231-power-of-two](https://github.com/aadii008/LeetCodes/tree/master/0231-power-of-two) |
 | [0264-ugly-number-ii](https://github.com/aadii008/LeetCodes/tree/master/0264-ugly-number-ii) |
 | [0564-find-the-closest-palindrome](https://github.com/aadii008/LeetCodes/tree/master/0564-find-the-closest-palindrome) |
 | [0592-fraction-addition-and-subtraction](https://github.com/aadii008/LeetCodes/tree/master/0592-fraction-addition-and-subtraction) |
@@ -180,6 +181,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0078-subsets](https://github.com/aadii008/LeetCodes/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/aadii008/LeetCodes/tree/master/0090-subsets-ii) |
+| [0231-power-of-two](https://github.com/aadii008/LeetCodes/tree/master/0231-power-of-two) |
 | [0476-number-complement](https://github.com/aadii008/LeetCodes/tree/master/0476-number-complement) |
 ## String Matching
 |  |
@@ -189,6 +191,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/aadii008/LeetCodes/tree/master/0050-powx-n) |
+| [0231-power-of-two](https://github.com/aadii008/LeetCodes/tree/master/0231-power-of-two) |
 ## Stack
 |  |
 | ------- |
