@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0349-intersection-of-two-arrays](https://github.com/aadii008/LeetCodes/tree/master/0349-intersection-of-two-arrays) |
 | [0560-subarray-sum-equals-k](https://github.com/aadii008/LeetCodes/tree/master/0560-subarray-sum-equals-k) |
 | [0624-maximum-distance-in-arrays](https://github.com/aadii008/LeetCodes/tree/master/0624-maximum-distance-in-arrays) |
+| [0628-maximum-product-of-three-numbers](https://github.com/aadii008/LeetCodes/tree/master/0628-maximum-product-of-three-numbers) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/aadii008/LeetCodes/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [1115-valid-boomerang](https://github.com/aadii008/LeetCodes/tree/master/1115-valid-boomerang) |
 | [1240-stone-game-ii](https://github.com/aadii008/LeetCodes/tree/master/1240-stone-game-ii) |
@@ -111,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0148-sort-list](https://github.com/aadii008/LeetCodes/tree/master/0148-sort-list) |
 | [0242-valid-anagram](https://github.com/aadii008/LeetCodes/tree/master/0242-valid-anagram) |
 | [0349-intersection-of-two-arrays](https://github.com/aadii008/LeetCodes/tree/master/0349-intersection-of-two-arrays) |
+| [0628-maximum-product-of-three-numbers](https://github.com/aadii008/LeetCodes/tree/master/0628-maximum-product-of-three-numbers) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/aadii008/LeetCodes/tree/master/0719-find-k-th-smallest-pair-distance) |
 ## String
 |  |
@@ -136,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0507-perfect-number](https://github.com/aadii008/LeetCodes/tree/master/0507-perfect-number) |
 | [0564-find-the-closest-palindrome](https://github.com/aadii008/LeetCodes/tree/master/0564-find-the-closest-palindrome) |
 | [0592-fraction-addition-and-subtraction](https://github.com/aadii008/LeetCodes/tree/master/0592-fraction-addition-and-subtraction) |
+| [0628-maximum-product-of-three-numbers](https://github.com/aadii008/LeetCodes/tree/master/0628-maximum-product-of-three-numbers) |
 | [0650-2-keys-keyboard](https://github.com/aadii008/LeetCodes/tree/master/0650-2-keys-keyboard) |
 | [0728-self-dividing-numbers](https://github.com/aadii008/LeetCodes/tree/master/0728-self-dividing-numbers) |
 | [1086-divisor-game](https://github.com/aadii008/LeetCodes/tree/master/1086-divisor-game) |
