@@ -133,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0050-powx-n](https://github.com/aadii008/LeetCodes/tree/master/0050-powx-n) |
 | [0231-power-of-two](https://github.com/aadii008/LeetCodes/tree/master/0231-power-of-two) |
 | [0264-ugly-number-ii](https://github.com/aadii008/LeetCodes/tree/master/0264-ugly-number-ii) |
+| [0507-perfect-number](https://github.com/aadii008/LeetCodes/tree/master/0507-perfect-number) |
 | [0564-find-the-closest-palindrome](https://github.com/aadii008/LeetCodes/tree/master/0564-find-the-closest-palindrome) |
 | [0592-fraction-addition-and-subtraction](https://github.com/aadii008/LeetCodes/tree/master/0592-fraction-addition-and-subtraction) |
 | [0650-2-keys-keyboard](https://github.com/aadii008/LeetCodes/tree/master/0650-2-keys-keyboard) |
