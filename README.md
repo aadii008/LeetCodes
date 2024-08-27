@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0011-container-with-most-water](https://github.com/aadii008/LeetCodes/tree/master/0011-container-with-most-water) |
 | [0055-jump-game](https://github.com/aadii008/LeetCodes/tree/master/0055-jump-game) |
 | [0624-maximum-distance-in-arrays](https://github.com/aadii008/LeetCodes/tree/master/0624-maximum-distance-in-arrays) |
+| [1448-maximum-69-number](https://github.com/aadii008/LeetCodes/tree/master/1448-maximum-69-number) |
 | [2032-largest-odd-number-in-string](https://github.com/aadii008/LeetCodes/tree/master/2032-largest-odd-number-in-string) |
 ## Hash Table
 |  |
@@ -144,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1086-divisor-game](https://github.com/aadii008/LeetCodes/tree/master/1086-divisor-game) |
 | [1115-valid-boomerang](https://github.com/aadii008/LeetCodes/tree/master/1115-valid-boomerang) |
 | [1240-stone-game-ii](https://github.com/aadii008/LeetCodes/tree/master/1240-stone-game-ii) |
+| [1448-maximum-69-number](https://github.com/aadii008/LeetCodes/tree/master/1448-maximum-69-number) |
 | [2032-largest-odd-number-in-string](https://github.com/aadii008/LeetCodes/tree/master/2032-largest-odd-number-in-string) |
 ## Dynamic Programming
 |  |
