@@ -3,9 +3,9 @@ public:
     int minimumOperations(vector<int>& nums) {
         int cnt=0;
         for(int i=0;i<nums.size();i++){
-            if(nums[i]%3!=0) 
-                cnt++;
+            if(nums[i]%3==0) cnt++;
         }
-        return cnt;
+        int ans=nums.size()-cnt;
+        return ans;
     }
 };
