@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1240-stone-game-ii](https://github.com/aadii008/LeetCodes/tree/master/1240-stone-game-ii) |
 | [1325-path-with-maximum-probability](https://github.com/aadii008/LeetCodes/tree/master/1325-path-with-maximum-probability) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/aadii008/LeetCodes/tree/master/1878-check-if-array-is-sorted-and-rotated) |
+| [2035-count-sub-islands](https://github.com/aadii008/LeetCodes/tree/master/2035-count-sub-islands) |
 | [2067-maximum-number-of-points-with-cost](https://github.com/aadii008/LeetCodes/tree/master/2067-maximum-number-of-points-with-cost) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/aadii008/LeetCodes/tree/master/2271-rearrange-array-elements-by-sign) |
 | [3367-find-the-sum-of-encrypted-integers](https://github.com/aadii008/LeetCodes/tree/master/3367-find-the-sum-of-encrypted-integers) |
@@ -95,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0048-rotate-image](https://github.com/aadii008/LeetCodes/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/aadii008/LeetCodes/tree/master/0054-spiral-matrix) |
+| [2035-count-sub-islands](https://github.com/aadii008/LeetCodes/tree/master/2035-count-sub-islands) |
 ## Simulation
 |  |
 | ------- |
@@ -214,6 +216,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0776-n-ary-tree-postorder-traversal](https://github.com/aadii008/LeetCodes/tree/master/0776-n-ary-tree-postorder-traversal) |
+| [2035-count-sub-islands](https://github.com/aadii008/LeetCodes/tree/master/2035-count-sub-islands) |
 ## Graph
 |  |
 | ------- |
@@ -222,4 +225,12 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [1325-path-with-maximum-probability](https://github.com/aadii008/LeetCodes/tree/master/1325-path-with-maximum-probability) |
+## Breadth-First Search
+|  |
+| ------- |
+| [2035-count-sub-islands](https://github.com/aadii008/LeetCodes/tree/master/2035-count-sub-islands) |
+## Union Find
+|  |
+| ------- |
+| [2035-count-sub-islands](https://github.com/aadii008/LeetCodes/tree/master/2035-count-sub-islands) |
 <!---LeetCode Topics End-->
