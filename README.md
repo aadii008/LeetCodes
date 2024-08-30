@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0001-two-sum](https://github.com/aadii008/LeetCodes/tree/master/0001-two-sum) |
 | [0011-container-with-most-water](https://github.com/aadii008/LeetCodes/tree/master/0011-container-with-most-water) |
+| [0015-3sum](https://github.com/aadii008/LeetCodes/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/aadii008/LeetCodes/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0039-combination-sum](https://github.com/aadii008/LeetCodes/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/aadii008/LeetCodes/tree/master/0040-combination-sum-ii) |
@@ -37,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/aadii008/LeetCodes/tree/master/0011-container-with-most-water) |
+| [0015-3sum](https://github.com/aadii008/LeetCodes/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/aadii008/LeetCodes/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0148-sort-list](https://github.com/aadii008/LeetCodes/tree/master/0148-sort-list) |
 | [0151-reverse-words-in-a-string](https://github.com/aadii008/LeetCodes/tree/master/0151-reverse-words-in-a-string) |
@@ -119,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Sorting
 |  |
 | ------- |
+| [0015-3sum](https://github.com/aadii008/LeetCodes/tree/master/0015-3sum) |
 | [0148-sort-list](https://github.com/aadii008/LeetCodes/tree/master/0148-sort-list) |
 | [0242-valid-anagram](https://github.com/aadii008/LeetCodes/tree/master/0242-valid-anagram) |
 | [0349-intersection-of-two-arrays](https://github.com/aadii008/LeetCodes/tree/master/0349-intersection-of-two-arrays) |
