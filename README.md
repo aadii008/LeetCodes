@@ -63,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0242-valid-anagram](https://github.com/aadii008/LeetCodes/tree/master/0242-valid-anagram) |
 | [0264-ugly-number-ii](https://github.com/aadii008/LeetCodes/tree/master/0264-ugly-number-ii) |
 | [0349-intersection-of-two-arrays](https://github.com/aadii008/LeetCodes/tree/master/0349-intersection-of-two-arrays) |
+| [0424-longest-repeating-character-replacement](https://github.com/aadii008/LeetCodes/tree/master/0424-longest-repeating-character-replacement) |
 | [0560-subarray-sum-equals-k](https://github.com/aadii008/LeetCodes/tree/master/0560-subarray-sum-equals-k) |
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/aadii008/LeetCodes/tree/master/0984-most-stones-removed-with-same-row-or-column) |
 ## Tree
@@ -139,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0058-length-of-last-word](https://github.com/aadii008/LeetCodes/tree/master/0058-length-of-last-word) |
 | [0151-reverse-words-in-a-string](https://github.com/aadii008/LeetCodes/tree/master/0151-reverse-words-in-a-string) |
 | [0242-valid-anagram](https://github.com/aadii008/LeetCodes/tree/master/0242-valid-anagram) |
+| [0424-longest-repeating-character-replacement](https://github.com/aadii008/LeetCodes/tree/master/0424-longest-repeating-character-replacement) |
 | [0564-find-the-closest-palindrome](https://github.com/aadii008/LeetCodes/tree/master/0564-find-the-closest-palindrome) |
 | [0592-fraction-addition-and-subtraction](https://github.com/aadii008/LeetCodes/tree/master/0592-fraction-addition-and-subtraction) |
 | [0664-strange-printer](https://github.com/aadii008/LeetCodes/tree/master/0664-strange-printer) |
@@ -258,4 +260,8 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/aadii008/LeetCodes/tree/master/0042-trapping-rain-water) |
+## Sliding Window
+|  |
+| ------- |
+| [0424-longest-repeating-character-replacement](https://github.com/aadii008/LeetCodes/tree/master/0424-longest-repeating-character-replacement) |
 <!---LeetCode Topics End-->
