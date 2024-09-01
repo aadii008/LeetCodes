@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0624-maximum-distance-in-arrays](https://github.com/aadii008/LeetCodes/tree/master/0624-maximum-distance-in-arrays) |
 | [0628-maximum-product-of-three-numbers](https://github.com/aadii008/LeetCodes/tree/master/0628-maximum-product-of-three-numbers) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/aadii008/LeetCodes/tree/master/0719-find-k-th-smallest-pair-distance) |
+| [1046-max-consecutive-ones-iii](https://github.com/aadii008/LeetCodes/tree/master/1046-max-consecutive-ones-iii) |
 | [1115-valid-boomerang](https://github.com/aadii008/LeetCodes/tree/master/1115-valid-boomerang) |
 | [1240-stone-game-ii](https://github.com/aadii008/LeetCodes/tree/master/1240-stone-game-ii) |
 | [1325-path-with-maximum-probability](https://github.com/aadii008/LeetCodes/tree/master/1325-path-with-maximum-probability) |
@@ -81,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0349-intersection-of-two-arrays](https://github.com/aadii008/LeetCodes/tree/master/0349-intersection-of-two-arrays) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/aadii008/LeetCodes/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/aadii008/LeetCodes/tree/master/0789-kth-largest-element-in-a-stream) |
+| [1046-max-consecutive-ones-iii](https://github.com/aadii008/LeetCodes/tree/master/1046-max-consecutive-ones-iii) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -100,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0560-subarray-sum-equals-k](https://github.com/aadii008/LeetCodes/tree/master/0560-subarray-sum-equals-k) |
+| [1046-max-consecutive-ones-iii](https://github.com/aadii008/LeetCodes/tree/master/1046-max-consecutive-ones-iii) |
 | [1240-stone-game-ii](https://github.com/aadii008/LeetCodes/tree/master/1240-stone-game-ii) |
 ## Matrix
 |  |
@@ -264,4 +267,5 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0424-longest-repeating-character-replacement](https://github.com/aadii008/LeetCodes/tree/master/0424-longest-repeating-character-replacement) |
+| [1046-max-consecutive-ones-iii](https://github.com/aadii008/LeetCodes/tree/master/1046-max-consecutive-ones-iii) |
 <!---LeetCode Topics End-->
