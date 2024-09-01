@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/aadii008/LeetCodes/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [2035-count-sub-islands](https://github.com/aadii008/LeetCodes/tree/master/2035-count-sub-islands) |
 | [2067-maximum-number-of-points-with-cost](https://github.com/aadii008/LeetCodes/tree/master/2067-maximum-number-of-points-with-cost) |
+| [2132-convert-1d-array-into-2d-array](https://github.com/aadii008/LeetCodes/tree/master/2132-convert-1d-array-into-2d-array) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/aadii008/LeetCodes/tree/master/2271-rearrange-array-elements-by-sign) |
 | [3367-find-the-sum-of-encrypted-integers](https://github.com/aadii008/LeetCodes/tree/master/3367-find-the-sum-of-encrypted-integers) |
 | [3476-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/aadii008/LeetCodes/tree/master/3476-find-minimum-operations-to-make-all-elements-divisible-by-three) |
@@ -105,11 +106,13 @@ A collection of LeetCode questions to ace the coding interview!
 | [0048-rotate-image](https://github.com/aadii008/LeetCodes/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/aadii008/LeetCodes/tree/master/0054-spiral-matrix) |
 | [2035-count-sub-islands](https://github.com/aadii008/LeetCodes/tree/master/2035-count-sub-islands) |
+| [2132-convert-1d-array-into-2d-array](https://github.com/aadii008/LeetCodes/tree/master/2132-convert-1d-array-into-2d-array) |
 ## Simulation
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/aadii008/LeetCodes/tree/master/0054-spiral-matrix) |
 | [0592-fraction-addition-and-subtraction](https://github.com/aadii008/LeetCodes/tree/master/0592-fraction-addition-and-subtraction) |
+| [2132-convert-1d-array-into-2d-array](https://github.com/aadii008/LeetCodes/tree/master/2132-convert-1d-array-into-2d-array) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/aadii008/LeetCodes/tree/master/2271-rearrange-array-elements-by-sign) |
 | [3511-find-the-winning-player-in-coin-game](https://github.com/aadii008/LeetCodes/tree/master/3511-find-the-winning-player-in-coin-game) |
 ## Backtracking
