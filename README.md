@@ -67,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0424-longest-repeating-character-replacement](https://github.com/aadii008/LeetCodes/tree/master/0424-longest-repeating-character-replacement) |
 | [0560-subarray-sum-equals-k](https://github.com/aadii008/LeetCodes/tree/master/0560-subarray-sum-equals-k) |
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/aadii008/LeetCodes/tree/master/0984-most-stones-removed-with-same-row-or-column) |
+| [1460-number-of-substrings-containing-all-three-characters](https://github.com/aadii008/LeetCodes/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 ## Tree
 |  |
 | ------- |
@@ -149,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0664-strange-printer](https://github.com/aadii008/LeetCodes/tree/master/0664-strange-printer) |
 | [0742-to-lower-case](https://github.com/aadii008/LeetCodes/tree/master/0742-to-lower-case) |
 | [0812-rotate-string](https://github.com/aadii008/LeetCodes/tree/master/0812-rotate-string) |
+| [1460-number-of-substrings-containing-all-three-characters](https://github.com/aadii008/LeetCodes/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [2032-largest-odd-number-in-string](https://github.com/aadii008/LeetCodes/tree/master/2032-largest-odd-number-in-string) |
 ## Math
 |  |
@@ -268,4 +270,5 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0424-longest-repeating-character-replacement](https://github.com/aadii008/LeetCodes/tree/master/0424-longest-repeating-character-replacement) |
 | [1046-max-consecutive-ones-iii](https://github.com/aadii008/LeetCodes/tree/master/1046-max-consecutive-ones-iii) |
+| [1460-number-of-substrings-containing-all-three-characters](https://github.com/aadii008/LeetCodes/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 <!---LeetCode Topics End-->
