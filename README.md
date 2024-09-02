@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0042-trapping-rain-water](https://github.com/aadii008/LeetCodes/tree/master/0042-trapping-rain-water) |
 | [0148-sort-list](https://github.com/aadii008/LeetCodes/tree/master/0148-sort-list) |
 | [0151-reverse-words-in-a-string](https://github.com/aadii008/LeetCodes/tree/master/0151-reverse-words-in-a-string) |
+| [0202-happy-number](https://github.com/aadii008/LeetCodes/tree/master/0202-happy-number) |
 | [0349-intersection-of-two-arrays](https://github.com/aadii008/LeetCodes/tree/master/0349-intersection-of-two-arrays) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/aadii008/LeetCodes/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/aadii008/LeetCodes/tree/master/2271-rearrange-array-elements-by-sign) |
@@ -61,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/aadii008/LeetCodes/tree/master/0001-two-sum) |
+| [0202-happy-number](https://github.com/aadii008/LeetCodes/tree/master/0202-happy-number) |
 | [0242-valid-anagram](https://github.com/aadii008/LeetCodes/tree/master/0242-valid-anagram) |
 | [0264-ugly-number-ii](https://github.com/aadii008/LeetCodes/tree/master/0264-ugly-number-ii) |
 | [0349-intersection-of-two-arrays](https://github.com/aadii008/LeetCodes/tree/master/0349-intersection-of-two-arrays) |
@@ -158,6 +160,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0007-reverse-integer](https://github.com/aadii008/LeetCodes/tree/master/0007-reverse-integer) |
 | [0048-rotate-image](https://github.com/aadii008/LeetCodes/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/aadii008/LeetCodes/tree/master/0050-powx-n) |
+| [0202-happy-number](https://github.com/aadii008/LeetCodes/tree/master/0202-happy-number) |
 | [0231-power-of-two](https://github.com/aadii008/LeetCodes/tree/master/0231-power-of-two) |
 | [0264-ugly-number-ii](https://github.com/aadii008/LeetCodes/tree/master/0264-ugly-number-ii) |
 | [0507-perfect-number](https://github.com/aadii008/LeetCodes/tree/master/0507-perfect-number) |
