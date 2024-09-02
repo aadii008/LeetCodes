@@ -162,6 +162,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0007-reverse-integer](https://github.com/aadii008/LeetCodes/tree/master/0007-reverse-integer) |
+| [0029-divide-two-integers](https://github.com/aadii008/LeetCodes/tree/master/0029-divide-two-integers) |
 | [0048-rotate-image](https://github.com/aadii008/LeetCodes/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/aadii008/LeetCodes/tree/master/0050-powx-n) |
 | [0202-happy-number](https://github.com/aadii008/LeetCodes/tree/master/0202-happy-number) |
@@ -224,6 +225,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Bit Manipulation
 |  |
 | ------- |
+| [0029-divide-two-integers](https://github.com/aadii008/LeetCodes/tree/master/0029-divide-two-integers) |
 | [0078-subsets](https://github.com/aadii008/LeetCodes/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/aadii008/LeetCodes/tree/master/0090-subsets-ii) |
 | [0231-power-of-two](https://github.com/aadii008/LeetCodes/tree/master/0231-power-of-two) |
