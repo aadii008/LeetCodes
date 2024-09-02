@@ -10,12 +10,12 @@ public:
                 s+=m*m;
                 n/=10;
             }
-            if(s==1) {
+            if(s==1){
                 return true;
             }
             n=s;
             s=0;
-            if(n==4) {  
+            if(n==4){  
                 return false;
             }
         }
