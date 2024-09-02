@@ -1,3 +1,11 @@
+namespace {
+    const auto __ = [] {
+        std::ios_base::sync_with_stdio(false);
+        std::cin.tie(nullptr);
+        return 0;
+    }();
+}
+
 class Solution {
 public:
 	 int maximumProduct(vector<int>& nums) {
@@ -29,7 +37,7 @@ public:
 
         int f1 = min1*min2*max1;
         int f2 = max1*max2*max3;
-        
+
 
         return max(f1, f2);
     }
