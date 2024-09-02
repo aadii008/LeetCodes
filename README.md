@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0624-maximum-distance-in-arrays](https://github.com/aadii008/LeetCodes/tree/master/0624-maximum-distance-in-arrays) |
 | [0628-maximum-product-of-three-numbers](https://github.com/aadii008/LeetCodes/tree/master/0628-maximum-product-of-three-numbers) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/aadii008/LeetCodes/tree/master/0719-find-k-th-smallest-pair-distance) |
+| [1034-subarrays-with-k-different-integers](https://github.com/aadii008/LeetCodes/tree/master/1034-subarrays-with-k-different-integers) |
 | [1046-max-consecutive-ones-iii](https://github.com/aadii008/LeetCodes/tree/master/1046-max-consecutive-ones-iii) |
 | [1115-valid-boomerang](https://github.com/aadii008/LeetCodes/tree/master/1115-valid-boomerang) |
 | [1240-stone-game-ii](https://github.com/aadii008/LeetCodes/tree/master/1240-stone-game-ii) |
@@ -69,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0424-longest-repeating-character-replacement](https://github.com/aadii008/LeetCodes/tree/master/0424-longest-repeating-character-replacement) |
 | [0560-subarray-sum-equals-k](https://github.com/aadii008/LeetCodes/tree/master/0560-subarray-sum-equals-k) |
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/aadii008/LeetCodes/tree/master/0984-most-stones-removed-with-same-row-or-column) |
+| [1034-subarrays-with-k-different-integers](https://github.com/aadii008/LeetCodes/tree/master/1034-subarrays-with-k-different-integers) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/aadii008/LeetCodes/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 ## Tree
 |  |
@@ -275,6 +277,11 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0424-longest-repeating-character-replacement](https://github.com/aadii008/LeetCodes/tree/master/0424-longest-repeating-character-replacement) |
+| [1034-subarrays-with-k-different-integers](https://github.com/aadii008/LeetCodes/tree/master/1034-subarrays-with-k-different-integers) |
 | [1046-max-consecutive-ones-iii](https://github.com/aadii008/LeetCodes/tree/master/1046-max-consecutive-ones-iii) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/aadii008/LeetCodes/tree/master/1460-number-of-substrings-containing-all-three-characters) |
+## Counting
+|  |
+| ------- |
+| [1034-subarrays-with-k-different-integers](https://github.com/aadii008/LeetCodes/tree/master/1034-subarrays-with-k-different-integers) |
 <!---LeetCode Topics End-->
