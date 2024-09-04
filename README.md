@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0090-subsets-ii](https://github.com/aadii008/LeetCodes/tree/master/0090-subsets-ii) |
 | [0198-house-robber](https://github.com/aadii008/LeetCodes/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/aadii008/LeetCodes/tree/master/0213-house-robber-ii) |
+| [0215-kth-largest-element-in-an-array](https://github.com/aadii008/LeetCodes/tree/master/0215-kth-largest-element-in-an-array) |
 | [0216-combination-sum-iii](https://github.com/aadii008/LeetCodes/tree/master/0216-combination-sum-iii) |
 | [0349-intersection-of-two-arrays](https://github.com/aadii008/LeetCodes/tree/master/0349-intersection-of-two-arrays) |
 | [0560-subarray-sum-equals-k](https://github.com/aadii008/LeetCodes/tree/master/0560-subarray-sum-equals-k) |
@@ -92,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/aadii008/LeetCodes/tree/master/0215-kth-largest-element-in-an-array) |
 | [0264-ugly-number-ii](https://github.com/aadii008/LeetCodes/tree/master/0264-ugly-number-ii) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/aadii008/LeetCodes/tree/master/0789-kth-largest-element-in-a-stream) |
 | [0948-sort-an-array](https://github.com/aadii008/LeetCodes/tree/master/0948-sort-an-array) |
@@ -141,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0015-3sum](https://github.com/aadii008/LeetCodes/tree/master/0015-3sum) |
 | [0148-sort-list](https://github.com/aadii008/LeetCodes/tree/master/0148-sort-list) |
+| [0215-kth-largest-element-in-an-array](https://github.com/aadii008/LeetCodes/tree/master/0215-kth-largest-element-in-an-array) |
 | [0242-valid-anagram](https://github.com/aadii008/LeetCodes/tree/master/0242-valid-anagram) |
 | [0349-intersection-of-two-arrays](https://github.com/aadii008/LeetCodes/tree/master/0349-intersection-of-two-arrays) |
 | [0628-maximum-product-of-three-numbers](https://github.com/aadii008/LeetCodes/tree/master/0628-maximum-product-of-three-numbers) |
@@ -223,6 +226,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0148-sort-list](https://github.com/aadii008/LeetCodes/tree/master/0148-sort-list) |
+| [0215-kth-largest-element-in-an-array](https://github.com/aadii008/LeetCodes/tree/master/0215-kth-largest-element-in-an-array) |
 | [0948-sort-an-array](https://github.com/aadii008/LeetCodes/tree/master/0948-sort-an-array) |
 ## Merge Sort
 |  |
@@ -305,4 +309,8 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0948-sort-an-array](https://github.com/aadii008/LeetCodes/tree/master/0948-sort-an-array) |
+## Quickselect
+|  |
+| ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/aadii008/LeetCodes/tree/master/0215-kth-largest-element-in-an-array) |
 <!---LeetCode Topics End-->
