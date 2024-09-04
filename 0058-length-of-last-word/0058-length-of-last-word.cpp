@@ -9,7 +9,7 @@ public:
         cnt++;
         a=true;
         }
-        else if (a==true) break;
+        else if (a) break;
        } 
        return cnt;
     }
