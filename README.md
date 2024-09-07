@@ -175,6 +175,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0029-divide-two-integers](https://github.com/aadii008/LeetCodes/tree/master/0029-divide-two-integers) |
 | [0048-rotate-image](https://github.com/aadii008/LeetCodes/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/aadii008/LeetCodes/tree/master/0050-powx-n) |
+| [0062-unique-paths](https://github.com/aadii008/LeetCodes/tree/master/0062-unique-paths) |
 | [0202-happy-number](https://github.com/aadii008/LeetCodes/tree/master/0202-happy-number) |
 | [0231-power-of-two](https://github.com/aadii008/LeetCodes/tree/master/0231-power-of-two) |
 | [0264-ugly-number-ii](https://github.com/aadii008/LeetCodes/tree/master/0264-ugly-number-ii) |
@@ -197,6 +198,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0042-trapping-rain-water](https://github.com/aadii008/LeetCodes/tree/master/0042-trapping-rain-water) |
 | [0055-jump-game](https://github.com/aadii008/LeetCodes/tree/master/0055-jump-game) |
+| [0062-unique-paths](https://github.com/aadii008/LeetCodes/tree/master/0062-unique-paths) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/aadii008/LeetCodes/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0198-house-robber](https://github.com/aadii008/LeetCodes/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/aadii008/LeetCodes/tree/master/0213-house-robber-ii) |
@@ -321,4 +323,8 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0175-combine-two-tables](https://github.com/aadii008/LeetCodes/tree/master/0175-combine-two-tables) |
 | [0177-nth-highest-salary](https://github.com/aadii008/LeetCodes/tree/master/0177-nth-highest-salary) |
+## Combinatorics
+|  |
+| ------- |
+| [0062-unique-paths](https://github.com/aadii008/LeetCodes/tree/master/0062-unique-paths) |
 <!---LeetCode Topics End-->
