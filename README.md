@@ -76,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/aadii008/LeetCodes/tree/master/0984-most-stones-removed-with-same-row-or-column) |
 | [1034-subarrays-with-k-different-integers](https://github.com/aadii008/LeetCodes/tree/master/1034-subarrays-with-k-different-integers) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/aadii008/LeetCodes/tree/master/1460-number-of-substrings-containing-all-three-characters) |
+| [1890-sum-of-beauty-of-all-substrings](https://github.com/aadii008/LeetCodes/tree/master/1890-sum-of-beauty-of-all-substrings) |
 ## Tree
 |  |
 | ------- |
@@ -165,6 +166,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0742-to-lower-case](https://github.com/aadii008/LeetCodes/tree/master/0742-to-lower-case) |
 | [0812-rotate-string](https://github.com/aadii008/LeetCodes/tree/master/0812-rotate-string) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/aadii008/LeetCodes/tree/master/1460-number-of-substrings-containing-all-three-characters) |
+| [1890-sum-of-beauty-of-all-substrings](https://github.com/aadii008/LeetCodes/tree/master/1890-sum-of-beauty-of-all-substrings) |
 | [2032-largest-odd-number-in-string](https://github.com/aadii008/LeetCodes/tree/master/2032-largest-odd-number-in-string) |
 | [2076-sum-of-digits-of-string-after-convert](https://github.com/aadii008/LeetCodes/tree/master/2076-sum-of-digits-of-string-after-convert) |
 | [3447-clear-digits](https://github.com/aadii008/LeetCodes/tree/master/3447-clear-digits) |
@@ -302,6 +304,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [1034-subarrays-with-k-different-integers](https://github.com/aadii008/LeetCodes/tree/master/1034-subarrays-with-k-different-integers) |
+| [1890-sum-of-beauty-of-all-substrings](https://github.com/aadii008/LeetCodes/tree/master/1890-sum-of-beauty-of-all-substrings) |
 ## Bucket Sort
 |  |
 | ------- |
