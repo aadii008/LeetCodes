@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0628-maximum-product-of-three-numbers](https://github.com/aadii008/LeetCodes/tree/master/0628-maximum-product-of-three-numbers) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/aadii008/LeetCodes/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [0948-sort-an-array](https://github.com/aadii008/LeetCodes/tree/master/0948-sort-an-array) |
+| [0978-valid-mountain-array](https://github.com/aadii008/LeetCodes/tree/master/0978-valid-mountain-array) |
 | [1034-subarrays-with-k-different-integers](https://github.com/aadii008/LeetCodes/tree/master/1034-subarrays-with-k-different-integers) |
 | [1046-max-consecutive-ones-iii](https://github.com/aadii008/LeetCodes/tree/master/1046-max-consecutive-ones-iii) |
 | [1115-valid-boomerang](https://github.com/aadii008/LeetCodes/tree/master/1115-valid-boomerang) |
